@@ -9,8 +9,6 @@ Apart from providing ways of organizing the content in individual documents, it 
 
 However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
 
-Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
-
 ### 🔗 Links to Markdown web resources
 
 [Markdown](https://daringfireball.net/projects/markdown/)  
