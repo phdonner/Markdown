@@ -118,8 +118,8 @@ Many of the names of villages in Kuhmo (like in other regions in Finland) includ
 When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. Some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar resources. These emoji characters could be meaningful in the context of our project:
 
 * 📚 Literature
-* 📹 Video content
 * 🔗 WWW references and resources
+* 📹 Video content
 * 📋 Tasks
 
 <!-- Separate References and WWW resouces into separate sympols. WWW resources could be a lightning symbol? -->
