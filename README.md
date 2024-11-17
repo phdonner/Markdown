@@ -9,20 +9,6 @@ Apart from providing ways of organizing the content in individual documents, it 
 
 However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
 
-### 🔗 Links to Markdown web resources
-
-[Markdown](https://daringfireball.net/projects/markdown/)  
-by John Gruber, 2004.
-
-[Markdown Guide](https://www.markdownguide.org/getting-started/)  
-by Matt Cone
-
-[Markdown tutorial](https://www.markdowntutorial.com/)
-<!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
-
-[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
-at learn.microsoft.com
-
 ### 📚 References on Markdown
 
 _The Markdown Guide_  
@@ -38,6 +24,20 @@ by William Dyer, 2018.
 
 [NOSTERIIHI introduction to Markdown](https://github.com/phdonner#markdown)  
 at github.com
+
+### 🔗 Links to Markdown web resources
+
+[Markdown](https://daringfireball.net/projects/markdown/)  
+by John Gruber, 2004.
+
+[Markdown Guide](https://www.markdownguide.org/getting-started/)  
+by Matt Cone
+
+[Markdown tutorial](https://www.markdowntutorial.com/)
+<!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
+
+[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
+at learn.microsoft.com
 
 ---
 
