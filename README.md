@@ -122,6 +122,8 @@ When I started this README I received a lot of redundant images, which looked li
 * 🔗 WWW references and resources
 * 📋 Tasks
 
+<!-- Separate References and WWW resouces into separate sympols. WWW resources could be a lightning symbol? -->
+
 As you can see: On the GitHub site the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
 
 <!-- Suggested task: Study how colours should be handled in black and white environments -->
