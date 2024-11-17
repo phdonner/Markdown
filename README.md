@@ -97,13 +97,14 @@ Perhaps we will be able to reproduce the content in other languages, as well. Au
 
 ## Kainuu village names in domain names
 
-Many of the names of villages in Kuhmo (like in other regions in Finland) include scandinavian letters. Unicode is an Internet standard that was designed to support the use of text in all of the world's writing systems. Internet addresses, URLs can only be sent over the net using the limited ASCII character-set. However, punycode can be used to provide internationalized domain names without corrupting the original spelling. (IDN).
+Many of the names of villages in Kuhmo (like in other regions in Finland) include scandinavian letters. Unicode is an Internet standard that was designed to support the use of text in all of the world's writing systems. Internet addresses, URLs can only be sent over the net using the limited ASCII character-set. However, punycode can be used to provide internationalized domain names without corrupting the original spelling. This is what a punycode representation of härmänkylä.kuhmo.fi would look like: xn--hrmnkyl-5wace.kuhmo.fi
 
 ### 📋 Tasks
 
-- [ ] Find an internationalized way of using Finnish village names in domain names
+- [ ] Experiment with punycode subdomain names at the cooperative's nettinoste domain
+- [ ] Find an internationalized way of using Finnish village names in domain names.
 
-* 🔗 WWW references and resources
+### 🔗 WWW references and resources
 
 [Punycoder](https://www.punycoder.com/)
 
