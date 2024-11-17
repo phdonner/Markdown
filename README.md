@@ -109,8 +109,10 @@ Many of the names of villages in Kuhmo (like in other regions in Finland) includ
 [Punycoder](https://www.punycoder.com/)
 
 <!-- DNS standards recommend the use of the LDH subset of ASCII conventionally used for host names. 
-     Punycode transliteration is specified in IETF Request for Comments 3492.                        -->
-
+     Punycode transliteration is specified in IETF Request for Comments 3492.                        
+     
+     NB. This section shouldn't be included here but in verkkotunnus.                                  -->
+     
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
