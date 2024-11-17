@@ -108,6 +108,9 @@ Many of the names of villages in Kuhmo (like in other regions in Finland) includ
 
 [Punycoder](https://www.punycoder.com/)
 
+<!-- DNS standards recommend the use of the LDH subset of ASCII conventionally used for host names. 
+     Punycode transliteration is specified in IETF Request for Comments 3492.                        -->
+
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
@@ -119,7 +122,9 @@ When I started this README I received a lot of redundant images, which looked li
 * 🔗 WWW references and resources
 * 📋 Tasks
 
-As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
+As you can see: On the GitHub site the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
+
+<!-- Suggested task: Study how colours should be handled in black and white environments -->
 
 ### 🔗 Emoji web resources
 
