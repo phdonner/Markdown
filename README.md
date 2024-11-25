@@ -7,7 +7,7 @@ Although Markdown is easy to learn, it can still become a powerful resource in i
 
 Apart from providing ways of organizing the content in documents, it is handy in preparing web pages, writing email, making task lists and so forth. Learn quickly [10 basic notations](https://www.markdownguide.org/basic-syntax/) and you might discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the Markdown source document looks like.
 
-However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
+However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents in a way which can provides a method of achieving archaic style formating. HTML provides, on the other hand, all the bells and whistles needed to produce a highly stylezed document which can be rendered in browser and print-ready on paper. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
 
 ### 📚 References on Markdown
 
@@ -90,11 +90,19 @@ It is assumed that this problem has already been tackled in the GitHub community
 
 Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work quite well. At the same time, smaller languages leave much to be desired.
 
+<!-- Created shield based language switching -->
+<!-- Defining class ids on the same page is the easiest way of creating language sensitivity -->
+<!-- We should also mention browser language settings as a way to support automatic language sensitivity -->
+<!-- Mention WordPress problems and some solutions -->
+
 ### 📋 Tasks
 
 - [ ] Create a Finnish version of the NOSTERIIHI project site
 - [ ] Create an English version of the preparatory NOSTERIIHI project outline
+- [ ] Describe how Shields and language-country marked page names help in achieving a multilingua machinery
+- [ ] Study WordPress support for multiple languages
 
+<!-- Also mention WordPress specific problems -->
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
