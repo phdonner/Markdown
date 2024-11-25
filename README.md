@@ -90,11 +90,19 @@ It is assumed that this problem has already been tackled in the GitHub community
 
 Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work quite well. At the same time, smaller languages leave much to be desired.
 
+<!-- Created shield based language switching -->
+<!-- Defining class ids on the same page is the easiest way of creating language sensitivity -->
+<!-- We should also mention browser language settings as a way to support automatic language sensitivity -->
+<!-- Mention WordPress problems and some solutions -->
+
 ### 📋 Tasks
 
 - [ ] Create a Finnish version of the NOSTERIIHI project site
 - [ ] Create an English version of the preparatory NOSTERIIHI project outline
+- [ ] Describe how Shields and language-country marked page names help in achieving a multilingua machinery
+- [ ] Study WordPress support for multiple languages
 
+<!-- Also mention WordPress specific problems -->
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
