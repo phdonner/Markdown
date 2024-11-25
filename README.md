@@ -88,7 +88,7 @@ In line with earlier work, the tutorial will be published at least in English an
 
 It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. 
 
-Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work quite well. At the same time, smaller languages leave much to be desired.
+Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work pretty well. At the same time, smaller languages leave much to be desired.
 
 <!-- Created shield based language switching -->
 <!-- Defining class ids on the same page is the easiest way of creating language sensitivity -->
