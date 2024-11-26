@@ -39,6 +39,8 @@ by Matt Cone
 [Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
 at learn.microsoft.com
 
+<!-- Consider https://www.markdownguide.org/getting-started/ -->
+
 ---
 
 ## Text to HTML
