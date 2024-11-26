@@ -86,9 +86,11 @@ It could be useful to be able to jot down preliminary thoughts, interesting sour
 
 In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. 
 
+Multiple languages are being supported through the default language settings in browsers. You may list language that you master and hinder automatic translation from them. 
+
 It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. 
 
-Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work quite well. At the same time, smaller languages leave much to be desired.
+Perhaps we will be able to reproduce the content in other languages, as well. Automatic translation is getting much better. Preliminary observations indicate that translations between big European languages, such as English, French, German, work pretty well. At the same time, smaller languages leave much to be desired.
 
 <!-- Created shield based language switching -->
 <!-- Defining class ids on the same page is the easiest way of creating language sensitivity -->
@@ -97,12 +99,12 @@ Perhaps we will be able to reproduce the content in other languages, as well. Au
 
 ### 📋 Tasks
 
-- [ ] Create a Finnish version of the NOSTERIIHI project site
-- [ ] Create an English version of the preparatory NOSTERIIHI project outline
-- [ ] Describe how Shields and language-country marked page names help in achieving a multilingua machinery
-- [ ] Study WordPress support for multiple languages
+- [+] Create a [Swedish version](https://nettinoste.fi/wp/monikielisyys-sv/) and an [English version](https://nettinoste.fi/wp/monikielisyys-en/) of the [Finnish multiple languages article](https://nettinoste.fi/wp/monikielisyys-fi-fi/) at nettinoste.fi
+- [ ] Describe how Shields and language-country marked page names can be used in achieving a multilingual machinery
+- [+] Make an example of a single page with multiple language sections at [härmänkylä.nettinoste.fi](https://xn--hrmnkyl-5wace.nettinoste.fi/)
+- [ ] Study HTML language markings
+- [ ] Study WordPress multilanguage limitations and plugin support for multiple languages
 
-<!-- Also mention WordPress specific problems -->
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
