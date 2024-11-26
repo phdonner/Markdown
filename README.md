@@ -99,9 +99,11 @@ Perhaps we will be able to reproduce the content in other languages, as well. Au
 
 ### 📋 Tasks
 
-- [ ] Create an English and Swedish version of the multiple languages article at nettinoste.fi
+- [+] Create a [Swedish version](https://nettinoste.fi/wp/monikielisyys-sv/) and an [English version](https://nettinoste.fi/wp/monikielisyys-en/) of the [Finnish multiple languages article]((https://nettinoste.fi/wp/monikielisyys-fi-fi/)) at nettinoste.fi
+- [+] Make an example of a single page with multiple language sections
 - [ ] Describe how Shields and language-country marked page names help in achieving a multilingual machinery
-- [ ] Study WordPress support for multiple languages
+- [ ] Study HTML language markings
+- [ ] Study WordPress plugin support for multiple languages
 
 ---
 
