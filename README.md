@@ -99,9 +99,9 @@ Perhaps we will be able to reproduce the content in other languages, as well. Au
 
 ### 📋 Tasks
 
-- [+] Create a [Swedish version](https://nettinoste.fi/wp/monikielisyys-sv/) and an [English version](https://nettinoste.fi/wp/monikielisyys-en/) of the [Finnish multiple languages article](https://nettinoste.fi/wp/monikielisyys-fi-fi/) at nettinoste.fi
+- [x] Create a [Swedish version](https://nettinoste.fi/wp/monikielisyys-sv/) and an [English version](https://nettinoste.fi/wp/monikielisyys-en/) of the [Finnish multiple languages article](https://nettinoste.fi/wp/monikielisyys-fi-fi/) at nettinoste.fi
 - [ ] Describe how Shields and language-country marked page names can be used in achieving a multilingual machinery
-- [+] Make an example of a single page with multiple language sections at [härmänkylä.nettinoste.fi](https://xn--hrmnkyl-5wace.nettinoste.fi/)
+- [x] Make an example of a single page with multiple language sections at [härmänkylä.nettinoste.fi](https://xn--hrmnkyl-5wace.nettinoste.fi/)
 - [ ] Study HTML language markings
 - [ ] Study WordPress multilanguage limitations and plugin support for multiple languages
 
