@@ -112,7 +112,7 @@ Perhaps we will be able to reproduce the content in other languages, as well. Au
 When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. Some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar resources. These emoji characters could be meaningful in the context of our project:
 
 * 📚 Literature
-* 🔗 WWW references and resources
+* 🔗 World Wide Web references and resources
 * 📹 Video content
 * 📋 Tasks
 
