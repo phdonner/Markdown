@@ -75,7 +75,11 @@ It could be useful to be able to jot down preliminary thoughts, interesting sour
 
 Some text...
 
-NB A nota bene remark also works nicely at GitHub.com (but not in Visual Studio)
+    NB An indented nota bene remark also works nicely at GitHub.com (but not in Visual Studio)
+
+Some other text
+
+    Commenting is useful
 
 <!-- This is a HTML comment. It seems to be a functional workaroundto make comments in Markdown.      -->
 
