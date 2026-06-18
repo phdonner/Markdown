@@ -73,6 +73,8 @@ It could be useful to be able to jot down preliminary thoughts, interesting sour
 
     <!-- This is a HTML comment. It seems to be a functional workaround to make comments in Markdown. -->
 
+    NB Check how a nota bene remark works at GitHub.com
+
 <!-- This is a HTML comment. It seems to be a functional workaroundto make comments in Markdown.      -->
 
 <!-- Have a look at Rich Tabor's Comment plugin for WordPress                                         -->
