@@ -73,6 +73,8 @@ It could be useful to be able to jot down preliminary thoughts, interesting sour
 
     <!-- This is a HTML comment. It seems to be a functional workaround to make comments in Markdown. -->
 
+Some text...
+
     NB A nota bene remark also works nicely at GitHub.com
 
 <!-- This is a HTML comment. It seems to be a functional workaroundto make comments in Markdown.      -->
