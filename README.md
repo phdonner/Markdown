@@ -45,7 +45,7 @@ at learn.microsoft.com
 
 In 2004 the author developed a server side Visual Basic Script utility to facilitate production of valid HTML pages for ongoing subprojects on the [Virtuosi project site](http://www.znak.fi/user/pdonner/). The tool [TextToHTML](http://www.znak.fi/user/pdonner/private/texttohtml.asp) included a number of shorthand markings for various HTML functions: paragraphs, lines, ordered and unordered lists, horizontal rules, hyperlinks etc. You can have look at the [features of the original TextToHtml tool](http://www.znak.fi/user/pdonner/private/TextToHTML_EN.htm).
 
-The TextToHtml utility was a necessity for speedy HTML page production in documenting ongoing work. I wasn't aware of the fact that John Gruber created in the same year a fully featured and carefully designed language called Markdown with related tools and documentation. The name of the language was perhaps selected to contrast it with the Hypertext _Markup_ Language, HTML wich was much more detailed and the syntax was evidently more detailed. 
+The TextToHtml utility was a necessity for speedy HTML page production in documenting ongoing work. I wasn't aware of the fact that John Gruber created in the same year a fully featured and carefully designed language called Markdown with related tools and documentation. The name of the _Markdown_ language was perhaps selected to contrast it with the Hypertext _Markup_ Language, HTML wich is much more detailed. The HTML syntax is accordingly much more detailed. 
 
 ---
 
