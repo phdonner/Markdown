@@ -27,7 +27,7 @@ at github.com
 
 ### 🔗 Links to Markdown web resources
 
-[Markdown, the original specification](https://daringfireball.net/projects/markdown/)  
+[Markdown (the original specification)](https://daringfireball.net/projects/markdown/)  
 by John Gruber, 2004.
 
 [Markdown Guide](https://www.markdownguide.org/getting-started/)  
